@@ -64,6 +64,9 @@ li:last-child {
 	font-size: 12px;
 	margin: 0;
 }
+.section-discription {
+	margin-bottom: 20px;
+}
 .section-discription__icon-box {
 	text-align: center;
 }
@@ -89,4 +92,27 @@ li:last-child {
 	font-size: 18px;
 	width: 1000px;
 	margin: 0 auto;
+}
+.section-map{
+	margin-bottom: 20px;
+}
+.section-map__title{
+	text-align: center;
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+iframe{
+	display: block;
+	margin: 0 auto;
+}
+hr {
+	border: none;
+	border-top: 1px solid #999;
+	width: 1024px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+footer{
+	height: 80px;
 }
